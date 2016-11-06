@@ -1,0 +1,16 @@
+{
+  "name": "cs101_hw4",
+  "version": "1.0.0",
+  "description": "\"Simple Project\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+
+  },
+  "author": " Stepan Nshanyan",
+  "license": "ISC"
+}
